@@ -6,7 +6,7 @@ ChatGPT的功能只是回答问题，但使用起来却绝非看上去那么简�
 
 
 <details>
-<summary> <strong> 使用ChatGPT学习编程的优势</summary></strong>
+<summary> <strong> 使用ChatGPT学习编程的优势</summary></strong><br>
 
 
 
@@ -39,7 +39,7 @@ ChatGPT免去了培训的费用。没有任何老师能够像ChatGPT这样，全
 
 
 <details>
-<summary> <strong> ChatGPT的一些特性</summary></strong>
+<summary> <strong> ChatGPT的一些特性</summary></strong><br>
  
 在正式开始学习之前，有必要先简单介绍一下ChatGPT的一些特性，利用好这些特性能够帮助你更正确地设计你的问题，从而提高ChatGPT的回答质量。
 
@@ -60,7 +60,7 @@ ChatGPT并不是一键给出正确答案，它是在与你不断交互的过程�
 
 基于以上特性和个人使用经验，我将**在学习过程中可能会遇到的不同问题的有效提问方式**总结成一套指令集，我将其命名为“有效指令集”，并基于该指令集设计出一套系统的学习模式。接下来我会举例一一介绍这些有效指令的使用方式，并在这个过程中展现这套学习模式是如何运作的。不过在介绍这些指令之前我先引入一个简单工具。
 <details>
-<summary> <strong> Quicker</summary></strong>
+<summary> <strong> Quicker</summary></strong><br>
 
 网站：https://getquicker.net/Download
 
@@ -72,7 +72,7 @@ Quicker是一款 Windows 平台上的快捷操作工具，可以帮助我们更�
 </details>
 
 <details>
-<summary> <strong> 有效提问1：想要深入了解和使用X，我需要学习哪些内容？并且告诉我正确的学习步骤</summary></strong>
+<summary> <strong> 有效提问1：想要深入了解和使用X，我需要学习哪些内容？并且告诉我正确的学习步骤</summary></strong><br>
 
 
 接下来以”哈希搜索算法“（此处的”哈希搜索算法“更常见的中文叫法应为哈希查找算法，ChatGPT能够理解，不影响回答的准确性）为例对ChatGPT做出第一个提问。对于一个陌生的知识点，许多人的第一个提问往往是“X是什么”，但这并不是一个有效提问，ChatGPT给出的答案往往也并不能让人满意。而在使用另外一种更合理、有效的提问方式后，给出的答案立即得到改善。读者可以做出对比，注意在不同的询问方式下ChatGPT给出答案的不同。
@@ -84,11 +84,11 @@ Quicker是一款 Windows 平台上的快捷操作工具，可以帮助我们更�
 
 哪种提问方式更好一目了然。
 
-**任何一个知识点它不是独立的，它是其它知识点的基础，它自身也由很多更底层的知识点构成，当我们学习一个知识点我们不能直接问它是什么，这样提问得出的回答很可能是不全面，甚至无效的。**了解一个知识点，特别是位于知识体系中较为高层的知识点，必须也得了解与它相关的更底层的知识点，有效提问1的作用就是这个。
+<strong>任何一个知识点它不是独立的，它是其它知识点的基础，它自身也由很多更底层的知识点构成。</strong>当我们学习一个知识点我们不能直接问它是什么，这样提问得出的回答很可能是不全面，甚至无效的。了解一个知识点，特别是位于知识体系中较为高层的知识点，必须也得了解与它相关的更底层的知识点，有效提问1的作用就是这个。
 
 
 <details>
-<summary> <strong> 使用GPT-3.5还是4.0</summary></strong>
+<summary> <strong> 使用GPT-3.5还是4.0</summary></strong><br>
 
 
 同一个问题，ChatGPT4.0的回答：
@@ -100,18 +100,18 @@ Quicker是一款 Windows 平台上的快捷操作工具，可以帮助我们更�
 </details>
 
 <details>
-<summary> <strong> 对ChatGPT回答的分析</summary></strong>
+<summary> <strong> 对ChatGPT回答的分析</summary></strong><br>
 
 
 在有效提问1的回答中，ChatGPT给出了所有关于该知识点我们需要学习的内容，接下来我们要捋清楚关于这些学习内容，我们是要学习关于它们的什么，我们要以怎样的方式来学习，这直接决定了我们应该如何设置我们的提问。
 
 一般来说，关于某个知识点，我们要学习以下内容：
 
-1.是什么
-2.为什么
-3.真实的应用场景是什么
-4.怎么做
-5.做得是否正确，哪里错误，如何修改
+1. 是什么
+2. 为什么
+3. 真实的应用场景是什么
+4. 怎么做
+5. 做得是否正确，哪里错误，如何修改
 
 1、2是为了从概念上理解知识点，3是为了从应用场景上理解这个知识点的作用（如果不了解这一点，很多知识点的学习会变得很枯燥也很抽象），4、5是为了实践操作。
 
@@ -123,7 +123,7 @@ Quicker是一款 Windows 平台上的快捷操作工具，可以帮助我们更�
 
 
 <details>
-<summary> <strong> 有效提问2：X的相关内容</summary></strong>
+<summary> <strong> 有效提问2：X的相关内容</summary></strong><br>
 
 
 
@@ -140,7 +140,7 @@ Quicker是一款 Windows 平台上的快捷操作工具，可以帮助我们更�
 
 
 <details>
-<summary> <strong> 有效提问3：什么是X？请从底层原理进行解释</summary></strong>
+<summary> <strong> 有效提问3：什么是X？请从底层原理进行解释</summary></strong><br>
 
 
 有效提问2是为了对X做出一个总的介绍，扩展和延申关于X的内容，这是广度上的认识。想要完全理解一个概念，特别是计算机中一些关键的概念，需要足够深度的认识，这就是有效提问3的作用。
@@ -151,7 +151,8 @@ Quicker是一款 Windows 平台上的快捷操作工具，可以帮助我们更�
 
 
 <details>
-<summary>什么时候适用“底层原理”</summary>
+<summary>什么时候适用“底层原理”</summary><br>
+ 
 ![Pasted image 20230316194256](https://user-images.githubusercontent.com/69788237/227193310-32a74232-ba94-44d2-9fe0-c9f7aa51743a.png)
 
 ![Pasted image 20230316194356](https://user-images.githubusercontent.com/69788237/227193336-6b140a53-41ba-47a2-bffe-0fadcae11226.png)
@@ -162,7 +163,7 @@ Quicker是一款 Windows 平台上的快捷操作工具，可以帮助我们更�
 </details>
 
 <details>
-<summary> <strong>  有效提问4：X是如何实现的？请告诉我它的实现原理</strong></summary>
+<summary> <strong>  有效提问4：X是如何实现的？请告诉我它的实现原理</strong></summary><br>
 
 
 ![Pasted image 20230316195201](https://user-images.githubusercontent.com/69788237/227193934-c1c4a426-2c46-4da2-bcb9-72cad03ad683.png)
@@ -174,7 +175,7 @@ Quicker是一款 Windows 平台上的快捷操作工具，可以帮助我们更�
 </details>
 
 <details>
-<summary> <strong>  有效提问5：通过真实的应用场景举例告诉我X的相关内容？</strong></summary>
+<summary> <strong>  有效提问5：通过真实的应用场景举例告诉我X的相关内容？</strong></summary><br>
 
 
 以上4个有效提问是基于概念上的提问，接下来开始对作用上的提问。作用上的提问其实相当重要，有时候我会首先问这个问题。了解真实的应用场景，能够让你在学习该内容时将其与真实的应用场景联系起来，从而让你明白这个知识点的意义，也让你的学习会不那么枯燥。而且更重要的是，一般来说这里出现的应用场景就是你要在实践中去最后完成的任务。
@@ -188,11 +189,11 @@ Quicker是一款 Windows 平台上的快捷操作工具，可以帮助我们更�
 </details>
 
 <details>
-<summary> <strong> 有效提问6：请给我布置一些作业帮助我更好地理解和使用哈希搜索算法，布置的作业按顺序应该由浅到深，由简单到难</strong></summary>
+<summary> <strong> 有效提问6：请给我布置一些作业帮助我更好地理解和使用哈希搜索算法，布置的作业按顺序应该由浅到深，由简单到难</strong></summary><br>
 
 
 <details>
-<summary> <strong> 实践环节中的注意事项</strong></summary>
+<summary> <strong> 实践环节中的注意事项</strong></summary><br>
 
 接下来进入实践阶段，你可以使用有效提问6来让ChatGPT给你布置一些作业，也可以通过在有效提问5中的深入来开始实践。我的推荐是使用有效提问6，因为一上来就做5中的实践可能过难。在进入这个阶段后，**与ChatGPT的交互就变得更重要，你要随时验证它的代码，并将自己的代码也汇报给它**。
 
@@ -213,7 +214,7 @@ Quicker是一款 Windows 平台上的快捷操作工具，可以帮助我们更�
 </details>
 
 <details>
-<summary> <strong>验证环节的注意事项</summary></strong>
+<summary> <strong>验证环节的注意事项</summary></strong><br>
 验证环节实际上是非常重要的一个步骤，理论上来说我们应该对ChatGPT给出的每个回答都进行验证，但我们知道如果这样做，ChatGPT为我们节省的时间都被会用在验证上。如果验证出答案不正确还好，错误能够得到改正，花在这部分上的时间是有效的，反之则得不偿失。所以我们有必要弄清楚，什么是有必要验证的，以怎样的方式来验证。
 
 
@@ -230,7 +231,7 @@ Quicker是一款 Windows 平台上的快捷操作工具，可以帮助我们更�
 
 
 <details>
-<summary> <strong>Debug环节的注意事项</summary></strong>
+<summary> <strong>Debug环节的注意事项</summary></strong><br>
 
 
 不要只是简单地问“为什么”。ChatGPT给出的回答基于你所给出的反馈，如果只是问为什么，很可能因为缺乏相关背景而给出错误的回答。在这种情况下，你需要引导ChatGPT告诉你，你需要给出它怎样的信息才能够让它帮助你分析出真正错误的所在。
@@ -244,7 +245,7 @@ Quicker是一款 Windows 平台上的快捷操作工具，可以帮助我们更�
 
 <details>
 
-<summary><strong>有效提问7：【给出报错信息】【给出全部代码或局部代码】，造成X的原因可能是什么，请分别罗列并告诉我哪个原因更可信，我应该如何提供给你什么信息才能使得你对原因做出更准确的分析？</summary></strong>
+<summary><strong>有效提问7：【给出报错信息】【给出全部代码或局部代码】，造成X的原因可能是什么，请分别罗列并告诉我哪个原因更可信，我应该如何提供给你什么信息才能使得你对原因做出更准确的分析？</summary></strong><br>
 
 在Debug过程中，很少情况是能够一步到位的，往往需要多次反馈才能达到预期效果。如果我们只是问为什么会出现报错，我们得到的答案很可能是不准确或者不完全的，按照这个答案也可能会造成其它错误。这时候我们的提问不仅需要保证ChatGPT给出报错信息的解释，而且也给出进一步反馈所需要的信息。许多人在得到答案后不知道如何进一步与ChatGPT交互，实际上这一点也可以交给ChatGPT来告诉你。
 
@@ -255,7 +256,7 @@ Quicker是一款 Windows 平台上的快捷操作工具，可以帮助我们更�
 </details>
 
 <details>
-<summary><strong>有效提问8：在X之前，需要哪些准备工作？</summary></strong>
+<summary><strong>有效提问8：在X之前，需要哪些准备工作？</summary></strong><br>
 第二种错误会出现在你尝试使用ChatGPT开发较为复杂的功能时，这种错误更加隐蔽，因为代码本身可能没有任何错误，但是仍然无法运行或无法满足你的需求。
 
 这些错误可能是因为你没有导入相关的依赖，这时候你要先使用有效提问8，问清楚ChatGPT代码是否完整，是否需要其它前置条件。
@@ -268,7 +269,7 @@ Quicker是一款 Windows 平台上的快捷操作工具，可以帮助我们更�
 第二种错误实际上复杂得多，无法只是靠一两个问题就能迅速解决，这一点当你尝试开始开发项目时便会体验到，在下一篇文章我会尝试展开来讲如何解决这种错误。
 
 
-![Pasted image 20230316185135](https://user-images.githubusercontent.com/69788237/227199224-8d81464e-dbf2-447b-83e1-1f5fff0479de.png)
+![Pasted image 20230323200149](https://user-images.githubusercontent.com/69788237/227496095-cbec561c-e25a-44e0-ac43-a16dd8120764.png)
 
 
 还有一种情况是因为版本更新一些功能不再能使用（比如在 2022年更新的Spring Security_ 5.7.0版本中 ，WebSecurityConfigurerAdapter这个class已经被弃用，而因为ChatGPT的信息是在2021年，它并不知道这个情况，所以仍会在代码中使用该class，结果导致代码错误）。这种情况就需要借用其它搜索引擎（此处推荐使用New Bing），比如搜索”WebSecurityConfigurerAdapter在最新版本中的Spring Security中是否还能使用“，你马上就会发现”WebSecurityConfigurerAdapter弃用“的搜索结果。
@@ -277,7 +278,7 @@ Quicker是一款 Windows 平台上的快捷操作工具，可以帮助我们更�
 </details>
 
 <details>
-<summary><strong>如果ChatGPT无法解决你的问题</summary></strong>
+<summary><strong>如果ChatGPT无法解决你的问题</summary></strong><br>
 
 
 
@@ -289,7 +290,7 @@ Quicker是一款 Windows 平台上的快捷操作工具，可以帮助我们更�
 </details>
 
 <details>
-<summary><strong>学习完成后</summary></strong>
+<summary><strong>学习完成后</summary></strong><br>
 
 
 
